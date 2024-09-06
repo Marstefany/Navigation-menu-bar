@@ -3,7 +3,7 @@
 Este projeto apresenta uma barra de navegação interativa e animada, desenvolvida com HTML e CSS. A barra utiliza rádio-buttons para criar uma transição suave entre as seções, proporcionando uma experiência de navegação visualmente atraente e moderna.
 
 ## Demonstração 🎥
-Você pode visualizar a barra de navegação ao vivo [aqui](https://marstefany.github.io/Animated-Navigation-Menu-Bar/).
+Você pode visualizar a barra de navegação ao vivo [aqui](https://marstefany.github.io/Navigation-menu-bar/).
 
 ## Tecnologias Utilizadas 🚀
 - *HTML5*: Utilizado para estruturar a navegação e a marcação do layout.
